@@ -9,5 +9,5 @@
 
 GUI简介
 ----
-
-![](https://github.com/loveybos/Pitch-Detection/edit/master/2018-12-28_163901.jpg)
+![Image text](https://github.com/loveybos/Pitch-Detection/raw/master/2018-12-28_163901.jpg)
+首先选择一个“不知道是哪个音”，然后播放，自己可以先猜一下唱名是什么。然后进行右边的各部分分析，最后进行音阶检测，看检测出来的音阶是否和自己猜的一样~
