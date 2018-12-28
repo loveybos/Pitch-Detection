@@ -9,3 +9,5 @@
 
 GUI简介
 ----
+
+![](https://github.com/loveybos/Pitch-Detection/edit/master/2018-12-28_163901.jpg)
